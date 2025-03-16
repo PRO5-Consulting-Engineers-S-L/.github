@@ -8,9 +8,9 @@ Facilitamos las relaciones a largo plazo con nuestros clientes, funcionando como
 	
 ## Servicios ⚙️
 
-- **Ingeniería Estructural** 🔧 
+- **Ingeniería Estructural** 🔧   
 	Diseño y verificación de estructuras fotovoltaicas según normativas internacionales.
-- **Ingeniería Civil** 🚧
+- **Ingeniería Civil** 🚧   
 Optimización de layout, drenaje e hidrología para plantas solares.
 
 
