@@ -22,4 +22,4 @@ Llevamos más de 15 años trabajando con los principales suministradores de trac
 
 Para conocer más sobre nuestros servicios y proyectos, visita nuestro sitio web: [pro5engineers.com](https://pro5engineers.com/)
 
-Si deseas comunicarte con nosotros, no dudes en contactarnos por [correo electrónico](mailto:admin@pro5engineers.com) o llamandonos al +34 910 219 484.
+Si deseas comunicarte con nosotros, no dudes en contactarnos por [correo electrónico](mailto:admin@pro5engineers.com) o llamándonos al +34 910 219 484.
